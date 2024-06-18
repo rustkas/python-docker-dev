@@ -3,7 +3,7 @@
 
 `kubectl get pods`
 
-`kubectl logs <pod-name>` / `kubectl logs docker-python-demo-54555c7499-bdpr7`
+`kubectl logs <pod-name>` / `kubectl logs docker-python-demo-5fc69dcd5-tz4n7`
 
 `kubectl delete -f docker-python-kubernetes.yaml`
 
